@@ -2,6 +2,10 @@
 
 Servidor do Aika em C++20 para Windows. Este diretório contém o código-fonte, o projeto CMake, um exemplo de configuração e um iniciador do executável.
 
+## Release
+
+A prévia para Windows x64 está disponível em [Releases](https://github.com/highrooh/AikaCppServer/releases/tag/v0.1.0-preview). O pacote contém o executável, as DLLs de runtime, uma configuração de exemplo e instruções. Os dados do jogo e o banco de dados não estão no pacote; consulte [database/README.md](database/README.md) para preparar um dump público somente de estrutura.
+
 ## Requisitos
 
 - Windows 10 ou 11, 64 bits.
