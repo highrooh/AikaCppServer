@@ -1,0 +1,19 @@
+# Build products
+build/
+out/
+.vs/
+CMakeFiles/
+CMakeCache.txt
+CMakeUserPresets.json
+*.obj
+*.lib
+*.dll
+*.exe
+*.pdb
+
+# Local runtime configuration, logs, and game assets
+AikaServer.ini
+AikaServer.log
+SL.bin
+Data/
+NPCs/
